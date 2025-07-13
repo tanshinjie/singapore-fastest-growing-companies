@@ -6,11 +6,15 @@ on:
       - main # or your main branch name
     paths:
       - "bolt/**"
+      - ".github/workflows/deploy-vercel.yml"
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: bolt
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -19,9 +23,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20" # Use a Node.js version compatible with your project
-
-      - name: Change directory
-        run: cd bolt
 
       - name: Install dependencies
         run: npm install
@@ -36,4 +37,4 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-args: "--prod" # Deploy to production environment
-          working-directory: ./ # The root of your bolt project
+          working-directory: ./ # This is relative to the job's working directory, which is now 'bolt'
