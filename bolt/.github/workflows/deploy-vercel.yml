@@ -6,6 +6,7 @@ on:
       - main # or your main branch name
     paths:
       - 'bolt/**'
+  workflow_dispatch:
 
 jobs:
   deploy:
