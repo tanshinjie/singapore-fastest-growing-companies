@@ -1,0 +1,76 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2021,2016,2019,1,Carro,Technology,14158.5,422.4,826176,,10,,2015,http://www.carro.sg
+2021,2016,2019,2,SCI Ecommerce,Ecommerce,7479.7,323.2,829332,,12,,2014,http://www.sciecomm.com
+2021,2016,2019,3,Roadbull Logistics,Technology,3961.6,243.7,227178,,34,,2015,http://roadbull.com
+2021,2016,2019,4,Ninja Van Logistics,Transport,2736.7,205,12000000,,1633,,2014,http://www.ninjavan.co
+2021,2016,2019,5,Blue Wireless,Telecoms,2367.5,191.1,154752,,4,,2015,http://www.bluewireless.com
+2021,2016,2019,6,RedDoorz,Travel and leisure,2262.5,186.9,491000,,49,,2015,http://www.reddoorz.com
+2021,2016,2019,7,BR Metals,Waste management and recycling,1927.1,178.9,7227568,,6,,2009,http://www.brmetalsltd.com
+2021,2016,2019,8,Coda Payments,Fintech,1581.7,162,6515847,,19,,2011,http://codapayments.com
+2021,2016,2019,9,Thermomix Singapore/The Future of Cooking,Retail,1488.8,151.4,717285,,8,,2016,http://www.thermomix.com.sg
+2021,2016,2019,10,WAVE Life Sciences,Health,1267.9,144.6,1579775,,96,,2012,http://wavelifesciences.com
+2021,2016,2019,11,Nium,Fintech,999.2,122.3,908000,,118,,2014,http://www.nium.com
+2021,2016,2019,12,SQREEM Technologies,Technology,941.2,118.4,729554,,32,,2010,http://www.sqreemtech.com
+2021,2016,2019,13,Ecommerce Enablers,Ecommerce,851.4,111.9,4058029,,120,,2014,http://www.shopback.sg
+2021,2016,2019,14,Redhill Communications,Advertising,788.4,107.1,489126,,16,,2014,http://redhill.world
+2021,2016,2019,15,Prince Education,Education,700,100,250000,,3,,2008,http://www.princeeducation.com.sg
+2021,2016,2019,16,Grain,Food and beverage,612.9,92.5,1905000,,33,,2014,http://grain.com.sg
+2021,2016,2019,17,Sing Fuels,Transport,515.9,87.5,92739790,,13,,2012,http://www.singfuels.com
+2021,2016,2019,18,I Switch,Energy,552.5,86.9,19882095,,11,,2015,http://www.iswitch.com.sg
+2021,2016,2019,19,Declarators,Transport,539.4,85.6,236539,,9,,2014,http://www.declarators.com.sg
+2021,2016,2019,20,2C2P,Fintech,480.1,83.8,18957088,,168,,2003,http://www.2c2p.com
+2021,2016,2019,21,Fundnel,Fintech,493.6,81.1,976567,,14,,2015,http://fundnel.com
+2021,2016,2019,22,A-Plus Automation,Industrial goods,376.3,68.3,5863775,,11,,2010,http://www.aplus-am.com
+2021,2016,2019,23,Aem Holdings,Industrial goods,360.8,66.4,70123000,,295,,2000,http://www.aem.com.sg
+2021,2016,2019,24,Ahrefs,Technology,311.6,63.9,16568173,,13,,2012,http://www.ahrefs.com
+2021,2016,2019,25,Penguin International,Industrial goods,308.1,59.8,33405000,,,,1995,http://www.penguin.com.sg
+2021,2016,2019,26,Sunseap Group,Energy,308,59.8,25346563,,82,,2011,http://www.sunseap.com
+2021,2016,2019,27,Align Group,Management consulting,306.2,59.6,471137,,8,,2012,http://www.aligngroup.asia
+2021,2016,2019,28,AJ2 Holdings,Interiors,256.7,52.8,1500000,,10,,2014,http://www.tcb.com.sg
+2021,2016,2019,29,MiRXES,Technology,255.5,52.6,1010529,,7,,2014,http://mirxes.com
+2021,2016,2019,30,SirionLabs,Technology,229.4,52.2,4673885,,180,,2012,http://www.sirionlabs.com
+2021,2016,2019,31,Gushcloud,Media,248.2,51.6,6850632,,50,,2012,http://www.gushcloud.com
+2021,2016,2019,32,Bluconnection,Fashion,212.3,49.5,16604818,,6,,2009,http://bluconnection.com
+2021,2016,2019,33,Vita Group,Industrial goods,208.8,45.6,4873202,,4,,2003,http://www.vita-commodities.com
+2021,2016,2019,34,KSE Marine Works,Construction,208.6,45.6,8003000,,30,,2004,http://www.ksemarine.com
+2021,2016,2019,35,90 Seconds,Technology,181.1,44.3,3591872,,87,,2010,http://90seconds.com
+2021,2016,2019,36,Wewe Media Group,Sales and marketing,175.5,43.4,4728733,,7,,2013,http://www.wewemedia.com
+2021,2016,2019,37,OneCare Medical,Health,183.9,41.6,5778103,,80,,2013,http://www.onecaremedical.com.sg
+2021,2016,2019,38,The Drinkery,Food and beverage,179,40.8,1222675,,4,,2014,http://www.thirsty.com.sg
+2021,2016,2019,39,FoodLine.sg,Ecommerce,159.9,37.5,985730,,8,,2013,http://www.foodline.sg
+2021,2016,2019,40,Atlantic Navigation Holdings,Support services,139.9,36.9,43119744,,,,1997,http://www.atlanticnavigation.com
+2021,2016,2019,41,Mlion Corporation,Industrial goods,130.9,35.2,32313957,,10,,2011,http://www.mlioncorp.com
+2021,2016,2019,42,Union Gas Holdings,Energy,120.6,30.2,35725000,,121,,2016,http://www.uniongas.com.sg
+2021,2016,2019,43,Rewind Networks,Media,95,27.8,3835192,,9,,2012,http://www.rewindnetworks.com
+2021,2016,2019,44,Resonant Networks,Telecoms,98,25.6,2690803,,12,,2013,http://resonantnetworks.com
+2021,2016,2019,45,GKE Corporation,Transport,91.1,24.1,56130000,,332,,2000,http://www.gke.com.sg
+2021,2016,2019,46,Data Connect Technologies,Technology,88.8,23.6,3003687,,16,,2003,http://www.d-connect.net
+2021,2016,2019,47,UnUsUal,Travel and leisure,82.8,22.3,33883020,,,,1997,http://www.unusual.com.sg
+2021,2016,2019,48,Rolling Arrays Consulting,Technology,81.5,22,4046369,,37,,2009,http://www.rollingarrays.com
+2021,2016,2019,49,Actspand,Food and beverage,81,21.9,1150283,,9,,2005,http://www.actspand.com
+2021,2016,2019,50,ESCO,Technology,77.4,21.1,20979521,,45,,1989,http://www.esco.com.sg
+2021,2016,2019,51,clickTRUE,Management consulting,75.7,20.7,5124000,,40,,2009,http://www.clicktrue.biz
+2021,2016,2019,52,Yongmao Holdings,Industrial goods,55.4,18.8,119667100,,,,1992,http://yongmao.listedcompany.com
+2021,2016,2019,53,Boustead Singapore,Industrial goods,67.5,18.8,433847000,,748,,1828,http://www.boustead.sg
+2021,2016,2019,54,DTC World Corporation,Sales and marketing,65.2,18.2,10484852,,19,,2006,http://www.dtcworld.com.sg
+2021,2016,2019,55,Connect Group,Travel and leisure,63.6,17.8,6574689,,92,,2012,http://connectcue.com
+2021,2016,2019,56,Procurri Corporation,Technology,63,17.7,135750000,,350,,2009,http://procurri.com
+2021,2016,2019,57,Baker & Cook,Food and beverage,60.7,17.1,7586015,,95,,2012,http://www.bakerandcook.biz
+2021,2016,2019,58,Sen Yue Holdings,Waste management and recycling,59.9,16.9,152224000,,,,2001,http://senyueholdings.com
+2021,2016,2019,59,Builders Alliance,Construction,59.4,16.8,8015920,,79,,2004,http://buildersalliance.com.sg
+2021,2016,2019,60,Ti2 Logistics,Transport,59.3,16.8,7975492,,19,,2010,http://www.ti2shipping.com
+2021,2016,2019,61,Koda,Interiors,45.8,16,53686295,,,,1972,http://www.kodaonline.com
+2021,2016,2019,62,IFAST Corporation,Fintech,55.6,15.9,80596370,,,,2000,http://www.ifastcorp.com
+2021,2016,2019,63,The Advocators & Co,Sales and marketing,55.1,15.7,1378332,,4,,2016,http://www.lizardstorm.com
+2021,2016,2019,64,Tesha Corporation,Retail,43.4,15.3,2354459,,1,,2012,http://www.teshagroup.com
+2021,2016,2019,65,INTELORG,Retail,42.8,15.2,217688955,,11,,1990,http://www.intelorg.com.sg
+2021,2016,2019,66,QXY Resources,Construction,50.3,14.6,25682101,,83,,2004,http://www.qxyresources.com
+2021,2016,2019,67,Katrina Group,Restaurants,48.5,14.1,56823000,,,,1995,http://katrinagroup.com
+2021,2016,2019,68,EDIT SUITS,Fashion,43.6,12.8,2562814,,12,,2013,http://www.editsuits.com
+2021,2016,2019,69,Decision Science Agency,Management consulting,43.3,12.7,4385306,,35,,2013,http://www.decision-science.com
+2021,2016,2019,70,Powermatic Data Systems,Technology,41,12.1,15432000,,,,1989,http://powermatic.com.sg
+2021,2016,2019,71,Benjamin Barker Aust,Retail,39.9,11.8,9579210,,53,,2009,http://www.benjaminbarker.co
+2021,2016,2019,72,Singapore OG,Health,38.7,11.5,28700000,,55,,2011,http://www.sog.com.sg
+2021,2016,2019,73,Geo Energy Group,Energy,27.8,11,263452939,,163,,2008,http://www.geocoal.com
+2021,2016,2019,74,E-Tech Building Services,Support services,30.8,9.4,7279974,,75,,1990,http://www.e-tech.com.sg
+2021,2016,2019,75,EOS Furniture,Retail,30.2,9.2,3366612,,15,,2012,http://www.soulandtables.com.sg

@@ -1,0 +1,101 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2020,2015,2018,1,Synagie Corporation,Ecommerce,8380.07438754431,339.339131642655,189,,23,,2014,http://www.synagie.com
+2020,2015,2018,2,Sinanju Tankers Holdings,Transport,3738.0952380952,237.317274311162,21000,,140,,1992,http://www.sinanju.com.sg
+2020,2015,2018,3,Grab Holdings,Technology,3603.7037037037,233.333333333333,36783,,1000,,2012,http://www.grab.com
+2020,2015,2018,4,Coda Payments,Fintech,3423.5217963306,227.837770394067,1104,,22,,2015,http://www.codapay.com
+2020,2015,2018,5,KC Group,Retail,2417.5249648397,193.083427606732,964,,100,,2013,http://www.kcgroup.sg
+2020,2015,2018,6,BR Metals,Waste Management,2175.5971341439,183.377344369558,2063,,6,,2014,http://www.brmetalsltd.sg
+2020,2015,2018,7,Roadbull Logistics,Technology,2166.0098522168,182.97881998494,203,,7,,2015,http://www.roadbull.com
+2020,2015,2018,8,GlobalTix,Travel & Leisure,1950.0093978121,173.685601957483,1841,,6,,2013,http://www.globaltix.com
+2020,2015,2018,9,Red Dot Payment,Fintech,1891.1832072895,171.042299796846,420,,29,,2011,http://reddotpayment.com
+2020,2015,2018,10,Cynopsis Solutions,Technology,1337.7287092675,143.160100947885,215,,3,,2014,http://www.cynopsis.co
+2020,2015,2018,11,Sunseap Group,Energy,1314.1581763684,141.823960513123,3290,,45,,2015,http://www.sunseap.com
+2020,2015,2018,12,Sqreem Technologies,Technology,1197.3956845191,134.976347975338,189,,19,,2010,http://sqreemtech.com
+2020,2015,2018,13,Blue Wireless,Telecoms,1170.3183867666,133.330150620303,181,,1,,2015,http://www.bluewireless.com
+2020,2015,2018,14,DROOTOO,Technology,1150,132.079441680639,200,,7,,2013,http://www.drootoo.com
+2020,2015,2018,15,McMerhons,Technology,900,115.443469003188,150,,10,,2007,http://www.mcmerhons.com
+2020,2015,2018,16,Boxgreen,Ecommerce,791.0891089109,107.319607784296,202,,6,,2014,http://www.boxgreen.co
+2020,2015,2018,17,Immigration@SG,Support Services,768.8832548594,105.582973134997,207,,2,,2014,http://www.iasg.com.sg
+2020,2015,2018,18,The Edge Property,Property,659.0232876336,96.525254294073,764,,38,,2014,http://www.edgeprop.sg
+2020,2015,2018,19,CoAssets,Fintech,614.1356498136,92.572190819008,816,,17,,2013,http://www.coassets.com
+2020,2015,2018,20,KSE Marine Works,Construction,600,91.293118277239,3000,,40,,2004,http://www.ksemarine.com
+2020,2015,2018,21,MM2 Asia,Media,594.3163440972,90.773975307473,38338,,,,2014,http://www.mm2entertainment.com
+2020,2015,2018,22,MiRXES,Health,582.9232458483,89.724739532723,345,,5,,2014,http://www.mirxes.com
+2020,2015,2018,23,Catapult Ventures,Fintech,491.4546573384,80.845269036975,1883,,16,,2009,http://www.moneysmart.com
+2020,2015,2018,24,Align Group of Companies,Management Consulting,453.1362910738,76.852302237452,364,,3,,2012,http://www.aligngoc.com
+2020,2015,2018,25,MyRepublic Group,Telecoms,427.2588306847,74.050237694133,20837,,180,,2011,http://myrepublic.net
+2020,2015,2018,26,Ecommerce Enablers,Ecommerce,375.4203333687,68.148339947494,4058,,40,,2014,http://www.shopback.com
+2020,2015,2018,27,Grand Venture Technology,Manufacturing & Machinery,364.8724571947,66.895491665416,8819,,218,,2012,http://www.gvt.com.sg
+2020,2015,2018,28,OneCare Medical Group,Health,346.4285714286,64.658439002087,2800,,15,,2013,http://www.onecaremedical.com.sg
+2020,2015,2018,29,Ahrefs,Technology,339.0277545638,63.743470967233,10330,,10,,2012,http://www.ahrefs.com
+2020,2015,2018,30,TOFFS Technologies,Cyber Security,338.9651679532,63.735689655183,1978,,6,,2014,http://www.toffstech.com
+2020,2015,2018,31,Vita Group (Plywood and Resin),Industrial Goods,337.1753576289,63.512851147702,2793,,4,,2003,http://www.vita-commodities.com
+2020,2015,2018,32,The Drinkery,Food & Beverage,289.5307876193,57.342940786132,753,,1,,2014,http://www.thedrinkery.com.sg
+2020,2015,2018,33,Yishion Singapore,Retail,286.6157783119,56.949471658503,2236,,11,,2011,http://www.yishion.sg
+2020,2015,2018,34,Bluconnection,Fashion,272.2245304725,54.977385597362,12027,,6,,2009,http://www.bluconnection.com
+2020,2015,2018,35,Sing Fuels,Transport,270.9396259216,54.798854716918,93850,,10,,2012,http://www.singfuels.com
+2020,2015,2018,36,Bimage Consulting,Technology,270.8381484987,54.784737395726,1109,,17,,2010,http://www.bimageconsulting.com
+2020,2015,2018,37,Niometrics,Technology,236.0268510414,49.781437400452,7591,,30,,2009,http://www.niometrics.com
+2020,2015,2018,38,Rewind Networks,Media,218.5188625806,47.133551725664,1950,,8,,2012,http://www.rewindnetworks.com
+2020,2015,2018,39,Nuffield Dental Holdings,Health,206.0840318145,45.193405302724,2877,,40,,2014,http://www.nuffielddental.com.sg
+2020,2015,2018,40,Soda Vision,Technology,198.5082153879,43.985501271058,1892,,7,,2011,http://www.sodavision.com
+2020,2015,2018,41,MindChamps PreSchool,Education,197.1299943725,43.763564289891,12439,,176,,2008,http://www.mindchamps.org
+2020,2015,2018,42,Edit Suits,Fashion,188.1065026287,42.293267911112,1212,,8,,2013,http://www.editsuits.com
+2020,2015,2018,43,A-Plus Automation (S),Industrial Goods,187.6772727467,42.222568501469,5864,,10,,2010,http://www.aplus-am.com
+2020,2015,2018,44,Sea,Technology,183.0880037245,41.4622262999,397967,,4500,,2009,http://www.seagroup.com
+2020,2015,2018,45,Adept Health,Health,180.2541794819,40.988611236123,1218,,8,,2012,http://www.adepthealth.com.sg
+2020,2015,2018,46,Nimbus Marine Services,Support Services,171.0985793047,39.436266978443,865,,3,,2011,http://www.nimbusmaritime.com
+2020,2015,2018,47,GEX Ventures,Property,166.459743463,38.636377454647,1813,,16,,2014,http://www.gexventures.com
+2020,2015,2018,48,SAC Capital,Financial Services,161.5384615385,37.777570253845,2600,,17,,2004,http://www.saccapital.com.sg
+2020,2015,2018,49,Starview International,Technology,158.4990046104,37.241764062727,4993,,9,,2010,http://www.starviewint.com
+2020,2015,2018,50,GKE Corporation,Industrial Goods,139.3273664226,33.76139435068,36870,,310,,1995,http://www.gke.com.sg
+2020,2015,2018,51,SAIS Group,Technology,139.0082452677,33.701915044134,11731,,,,2013,http://www.sais-group.com
+2020,2015,2018,52,Sen Yue Holdings,Waste Management,136.7219753863,33.274233081394,101732,,600,,2001,http://senyueholdings.com
+2020,2015,2018,53,Vividthree Holdings,Technology,134.6803508521,32.889982105294,3956,,35,,2006,http://www.vividthree.com
+2020,2015,2018,54,Mlion Corporation,Industrial Goods,134.2117319093,32.801469852157,37350,,11,,2011,http://www.mlioncorp.com
+2020,2015,2018,55,Proof & Company Spirits,Food & Beverage,113.3796148458,28.74122650535,8130,,51,,2012,http://www.proofandcompany.com
+2020,2015,2018,56,Singapore OG,Health,111.3058643046,28.322806701816,16413,,39,,2011,http://www.sog.com.sg
+2020,2015,2018,57,PropNex,Property,110.7408184024,28.208323362454,204772,,5464,,2000,http://www.propnex.com
+2020,2015,2018,58,Actspand,Food & Beverage,107.8208211399,27.613421285375,863,,8,,2005,http://actspand.com
+2020,2015,2018,59,Y Ventures Group,Ecommerce,103.6775805974,26.759662979288,8870,,30,,2013,http://yventures.com.sg
+2020,2015,2018,60,ESCO,Technology,101.9331960386,26.396749744211,13864,,34,,1989,http://www.esco.com.sg
+2020,2015,2018,61,Decision Science Agency,Technology,93.7124914288,24.657728495283,2943,,28,,2013,http://www.decision-science.com
+2020,2015,2018,62,Affle Holdings,Advertising,92.9954068242,24.503719038412,18288,,306,,2005,http://www.affle.com
+2020,2015,2018,63,ASTI,Construction,86.593110356,23.111475019941,8534,,25,,1998,http://www.asti.com.sg
+2020,2015,2018,64,Trafigura Group,Energy,85.8809192022,22.954644127714,132467520,,5248,,1996,http://www.trafigura.com
+2020,2015,2018,65,Supreme Components International,Technology,84.8660475173,22.730466599421,13458,,24,,2001,http://www.supremecomponents.com
+2020,2015,2018,66,APAC Realty,Property,82.2712811694,22.153546963463,232600,,138,,2013,http://www.apacrealty.com.sg
+2020,2015,2018,67,Procurri Corporation,Technology,79.3248326738,21.491756608229,122814,,,,2009,http://www.procurri.com
+2020,2015,2018,68,Khaitan International,Agricultural Commodities,73.7401278113,20.217228705345,56431,,4,,1985,
+2020,2015,2018,69,Agrocorp International,Agricultural Commodities,70.3722854188,19.435376535032,2634733,,52,,1990,http://www.agrocorp.com.sg
+2020,2015,2018,70,Rolling Arrays Consulting,Technology,68.9618681744,19.104883210141,4105,,27,,2009,http://www.rollingarrays.com
+2020,2015,2018,71,EOS Furniture,Retail,63.5103914604,17.80989965939,2612,,10,,2012,http://www.soulandtables.com.sg
+2020,2015,2018,72,Arova Singapore,Industrial Goods,56.5319682773,16.109480537472,4113,,20,,2012,http://arova.com.sg
+2020,2015,2018,73,Moneymax Financial Services,Fintech,55.8883616012,15.950127590421,93982,,,,2008,http://www.moneymax.com.sg
+2020,2015,2018,74,Hyphens Pharma International,Pharmaceuticals,54.4878509926,15.601848156492,78278,,275,,1998,http://www.hyphens.com.sg
+2020,2015,2018,75,Excelpoint Technology,Technology,51.6359746608,14.886081180848,1128389,,613,,1987,http://www.excelpoint.com
+2020,2015,2018,76,ISEC Healthcare,Health,51.5304901721,14.85943510573,26690,,,,2014,http://isechealthcare.com
+2020,2015,2018,77,Bumitama Agri,Agricultural Commodities,51.226993865,14.782700904638,526490,,3999,,2005,http://www.bumitama-agri.com
+2020,2015,2018,78,QXY Resources,Construction,49.407437499,14.320488720086,25682,,75,,2004,http://www.qxyresources.com
+2020,2015,2018,79,H.A.M. Creations,Support Services,48.4594549917,14.07818966296,3853,,42,,2006,http://www.hamcreations.com
+2020,2015,2018,80,Aedge Holdings,Transport,48.4172805988,14.067386187914,16533,,523,,2005,http://www.aedge.com.sg
+2020,2015,2018,81,Ace Exim,Industrial Goods,44.4995050225,13.054742844719,123813,,3,,2007,http://www.aceexim.com
+2020,2015,2018,82,Tat Seng Packaging Group,Manufacturing & Machinery,44.0217320082,12.930003902956,231441,,,,1968,http://www.tspg.sg
+2020,2015,2018,83,Teo Holdings,Fashion,43.9348302661,12.907285598642,105542,,49,,2000,http://www.teogmts.com
+2020,2015,2018,84,Palvision Corporation,Technology,43.2168817009,12.719244994793,1101,,15,,1989,http://www.palvision.com
+2020,2015,2018,85,Select Metals,Waste Management,43.1222808355,12.694420903482,49864,,4,,2013,http://www.selectmetals.sg
+2020,2015,2018,86,Benjamin Barker Aust,Retail,41.3448681924,12.225964981095,8038,,50,,2009,http://www.benjaminbarker.co
+2020,2015,2018,87,i-Sprint Innovations,Technology,39.7628427335,11.805690598609,19000,,187,,2000,http://www.i-sprint.com
+2020,2015,2018,88,Acma,Manufacturing & Machinery,39.1751716072,11.64876457049,71821,,,,1965,http://www.acmaltd.com
+2020,2015,2018,89,Info-Tech Systems Integrators,Technology,36.3985421881,10.90128446932,5833,,50,,2006,http://www.info-tech.com.sg
+2020,2015,2018,90,PKWA Law Practice,Law,35.6153039187,10.688601539527,11597,,100,,2004,http://www.pkwalaw.com
+2020,2015,2018,91,Health Management International,Health,35.4474196464,10.642907215813,113561,,1300,,1991,http://www.hmi.com.sg
+2020,2015,2018,92,SBS Transit,Transport,35.1303838266,10.55651411247,1023900,,9439,,1992,http://www.sbstransit.com.sg
+2020,2015,2018,93,Adroit Overseas,Agricultural Commodities,34.4354679339,10.366673874064,72376,,11,,2010,http://www.adroitoverseas.com
+2020,2015,2018,94,Watson EP Industries,Industrial Goods,34.4321311045,10.365760727619,36184,,82,,1980,http://www.watsonep.com.sg
+2020,2015,2018,95,Spindex Industries,Manufacturing & Machinery,34.2967244701,10.328693010695,114180,,,,1981,http://www.spindex.com.sg
+2020,2015,2018,96,Haw Par Corporation Limited and its subsidiaries,Health,32.9803057584,9.967016490608,178834,,546,,1969,http://www.hawpar.com
+2020,2015,2018,97,Data Connect Technologies,Technology,31.5187892223,9.562668330576,3069,,10,,2003,http://www.d-connect.net
+2020,2015,2018,98,Kimly,Food & Beverage,29.6237179487,9.033886147733,156000,,,,1990,http://www.kimlygroup.sg
+2020,2015,2018,99,Singapore Kitchen Equipment,Interiors,28.9372176333,8.841060509823,26029,,102,,1996,http://www.singaporekitchenequipmentltd.com
+2020,2015,2018,100,ISDN Holdings,Manufacturing & Machinery,28,8.7,235263,,,,1986,http://www.isdnholdings.com

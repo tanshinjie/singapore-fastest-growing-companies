@@ -1,0 +1,101 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2025,2020,2023,1,PFPFA,Fintech,4765.14,265.06,500000,,4,,2020,https://pfp-fa.com/
+2025,2020,2023,2,Focus Digital Technology Group,Technology,3154.78,219.28,184719,,7,,2020,https://focus.sg/
+2025,2020,2023,3,WIZ.AI,Technology,2681.04,202.97,462735,,68,,2019,https://www.wiz.ai/
+2025,2020,2023,4,Casa Mia Coliving,Real Estate,2675.37,202.77,198775,,1,,2019,https://www.casamia.co/
+2025,2020,2023,5,Gozem,Technology,1873.67,170.25,688823,,162,,2017,https://gozem.co/en/
+2025,2020,2023,6,elxa,Transport,1714.76,162.79,2078701,,2,,2020,https://elxa.io
+2025,2020,2023,7,PropertyLimBrothers,Advertising,1569.73,155.59,387257,,10,,2017,https://www.propertylimbrothers.com/
+2025,2020,2023,8,The Assembly Place,Real Estate,1511.27,152.57,966159,,8,,2019,https://www.theassemblyplace.com/
+2025,2020,2023,9,Endowus,Fintech,1345.26,143.58,611138,,31,,2017,https://endowus.com/
+2025,2020,2023,10,GlobalTix,Hospitality & Travel,1281.4,139.94,6347996,,53,,2013,https://www.globaltix.com/
+2025,2020,2023,11,Yoowifi,Hospitality & Travel,1209.05,135.68,477401,,3,,2013,https://yoowifi.com/
+2025,2020,2023,12,Aspire,Fintech,989.96,121.72,4902002,,90,,2019,https://aspireapp.com/
+2025,2020,2023,13,Synagie,Ecommerce,779.32,106.4,14397000,,202,,2014,https://www.synagie.com/
+2025,2020,2023,14,ErudiFi,Fintech,767.5,105.47,521348,,55,,2020,https://erudifi.com/
+2025,2020,2023,15,HMD APAC,Wholesale,751.22,104.18,855444,,1,,2019,http://www.hmd-apac.com/
+2025,2020,2023,16,Propseller,Real Estate,750.88,104.15,932793,,20,,2018,https://propseller.com/
+2025,2020,2023,17,Xaltius,Education,745.17,103.7,252595,,5,,2017,https://xaltius.tech/
+2025,2020,2023,18,REDEX Group,Energy,629.01,93.9,952864,,4,,2018,https://redex.eco/
+2025,2020,2023,19,Nium,Fintech,575.96,89.08,21496024,,420,,2014,https://www.nium.com/
+2025,2020,2023,20,InsiderSecurity,Technology,513.04,83.02,477994,,15,,2015,https://insidersecurity.co/
+2025,2020,2023,21,Weima Builders,Construction,508.36,82.55,19676968,,77,,2017,https://weima.sg/
+2025,2020,2023,22,Conexus Studio,Construction,470.28,78.66,5077007,,10,,2019,https://www.conexus.sg/
+2025,2020,2023,23,Webuy Global,Ecommerce,401.05,71.12,16276996,,85,,2018,https://www.webuysg.com/Investor/index.html
+2025,2020,2023,24,Maneuver Marketing,Ecommerce,397.47,70.71,41771266,,20,,2001,https://maneuvermarketing.com/
+2025,2020,2023,25,EasyTransfer,Fintech,391.93,70.07,7772160,,138,,2013,https://www.easytransfer.co.in/?country=IND
+2025,2020,2023,26,Fresh Laundry,Retail,370.11,67.52,832925,,8,,2006,https://freshlaundry.com.sg/
+2025,2020,2023,27,JDI,Technology,368.29,67.3,484083,,3,,2016,https://jdi.group/
+2025,2020,2023,28,Declarators,Transport,363.48,66.73,1055348,,30,,2014,https://declarators.com.sg/
+2025,2020,2023,29,Rex International Holding,Energy,343.63,64.31,61694474,,49,,2013,https://www.rexih.com/
+2025,2020,2023,30,GAO Capital,Fintech,328.8,62.46,366946,,4,,2010,https://www.gao-cap.com/
+2025,2020,2023,31,Redhill World,Advertising,327.43,62.29,4636119,,55,,2019,https://redhill.world/
+2025,2020,2023,32,Toku,Technology,314.84,60.68,9822045,,20,,2018,https://toku.co/
+2025,2020,2023,33,Erstudio,Construction,310.74,60.15,872180,,12,,2017,https://www.erstudio.design/
+2025,2020,2023,34,Spark Systems,Fintech,310.42,60.11,1756422,,49,,2016,https://www.sparksystems.sg/
+2025,2020,2023,35,Technopals,Technology,307.83,59.77,7698142,,129,,2009,https://technopals.com/
+2025,2020,2023,36,Anchanto,Technology,305.59,59.48,3681739,,130,,2011,https://anchanto.com/
+2025,2020,2023,37,SimplifyNext,Technology,305.14,59.42,2591905,,45,,2018,https://www.simplifynext.com/
+2025,2020,2023,38,UnaFinancial,Fintech,292.31,57.72,64774967,,1038,,2015,https://una.financial/
+2025,2020,2023,39,Inasia Media,Media & Telecoms,281.32,56.23,511672,,8,,2015,https://www.regulationasia.com/
+2025,2020,2023,40,Oceanus Group,Food & Beverage,273.94,55.22,92068000,,39,,2008,https://oceanus.com.sg/
+2025,2020,2023,41,Park N Parcel,Transport,272.82,55.06,995414,,6,,2016,https://www.parknparcel.com.sg/
+2025,2020,2023,42,Terra Systems,Technology,266.97,54.25,4499093,,102,,2003,https://www.terra.systems/
+2025,2020,2023,43,Luce SG,Real Estate,263.13,53.71,5045405,,217,,2017,https://www.luce.sg/
+2025,2020,2023,44,Enova Electrical,Electrical Manufacturing,261.76,53.51,4340025,,22,,2008,https://www.enovagroup.com.sg/
+2025,2020,2023,45,PS Energy Group,Transport,252.52,52.19,64473000,,73,,2008,https://psenergy.com.sg/
+2025,2020,2023,46,WSH Experts,Management Consulting,251.02,51.98,10055369,,592,,2018,https://www.wshexperts.com.sg/
+2025,2020,2023,47,MOWIN,Advertising,243.5,50.88,511649,,3,,2018,https://www.mowindigital.com/
+2025,2020,2023,48,igloo,Technology,237.59,50.01,4178538,,136,,2015,https://www.igloocompany.co/
+2025,2020,2023,49,Ti2 Logistics,Transport,219.11,47.23,11438730,,10,,2010,https://www.ti2shipping.com/
+2025,2020,2023,50,Lancia Consult,Management Consulting,210.2,45.84,3903806,,39,,2014,https://www.lanciaconsult.com/
+2025,2020,2023,51,Homage,Healthcare & Life Sciences,197.57,43.84,6900706,,50,,2017,https://www.homage.sg/
+2025,2020,2023,52,Ice Cube Marketing,Advertising,182.74,41.4,767994,,12,,2015,https://icecube.asia/
+2025,2020,2023,53,That Marketing Guy,Advertising,179.14,40.8,1048377,,12,,2014,https://www.thatmarketingguy.sg/
+2025,2020,2023,54,iCare,Fintech,173.74,39.89,3284408,,87,,2015,https://icarebenefits.asia/
+2025,2020,2023,55,UnaBiz,Technology,160.68,37.63,902182,,8,,2016,https://www.unabiz.com/
+2025,2020,2023,56,Info-Tech Systems Integrators,Technology,159.78,37.47,14652701,,164,,2007,https://www.info-tech.com.sg/
+2025,2020,2023,57,Acc Pro (Singapore) Group,Legal & Accounting Services,158.79,37.29,965340,,10,,2015,https://accprosingapore.com/
+2025,2020,2023,58,Kindle Kids International School,Education,151.64,36.02,3142358,,40,,2017,https://kindlekids.sg/
+2025,2020,2023,59,e27,Media & Telecoms,147.02,35.18,845235,,27,,2007,https://e27.co/
+2025,2020,2023,60,uParcel,Transport,146.01,34.99,838178,,20,,2014,https://www.uparcel.sg/
+2025,2020,2023,61,Pollisum,Construction,138.69,33.64,21106315,,209,,1982,https://www.pollisum.com/
+2025,2020,2023,62,Jetters Incz.,Waste Management,134.64,32.88,858967,,7,,2015,https://jettersincz.com/
+2025,2020,2023,63,Globe Teleservices,Media & Telecoms,120.38,30.14,35215823,,110,,2014,https://globeteleservices.com/
+2025,2020,2023,64,H.A.M. Creations,Construction,120.1,30.08,4752866,,44,,2006,https://www.hamcreations.com/
+2025,2020,2023,65,Rolling Arrays,Professional Services,118.08,29.68,6470000,,38,,2009,https://rollingarrays.com/
+2025,2020,2023,66,Almarc Engineering,Mechanical & Plant Engineering,118.03,29.67,5596602,,24,,2014,https://www.almarc.com.sg/
+2025,2020,2023,67,ALTO,Construction,113.19,28.7,1212128,,19,,2008,http://www.alto-grp.com/
+2025,2020,2023,68,Asl Global,Transport,112.94,28.65,4087528,,17,,2007,https://www.aslglobal.sg/
+2025,2020,2023,69,SJ Digital Media Solutions,Management Consulting,108.69,27.79,1205924,,8,,2016,https://www.sj-digitalmedia.com/
+2025,2020,2023,70,Asia Excel,Retail,102.66,26.55,8012354,,20,,2007,https://www.asiaexcel.com.sg/
+2025,2020,2023,71,Bitdeer,Technology,97.74,25.52,246422253,,74,,2020,https://www.bitdeer.com/
+2025,2020,2023,72,Equentia Natural Resources,Metals & Mining,94.08,24.74,534991262,,37,,2010,https://www.enrsingapore.com/
+2025,2020,2023,73,Synergy Financial Advisers,Fintech,86.83,23.16,4445711,,32,,2012,https://synergy.com.sg/
+2025,2020,2023,74,Aztech Global Ltd,Manufacturing,85.08,22.78,484273000,,1093,,2009,https://www.aztech.com/
+2025,2020,2023,75,Korea Artiz Studio,Retail,76.78,20.91,1976721,,20,,2017,https://artizstudio.sg/
+2025,2020,2023,76,Khaitan International,Wholesale,76.54,20.86,114414756,,6,,1985,https://khaitan.com.sg/
+2025,2020,2023,77,FoodLine.sg,Food & Beverage,75.95,20.72,3322477,,14,,2013,https://www.foodline.sg/
+2025,2020,2023,78,The Curtain Boutique,Manufacturing,72.21,19.86,5723970,,39,,2012,https://www.tcb.com.sg/
+2025,2020,2023,79,Business Edge Personnel Services,Employment Services,72.05,19.83,37006593,,15,,1996,https://www.businessedge.asia/
+2025,2020,2023,80,Choon Huat Engineering,Construction,71.94,19.8,19298833,,100,,1983,https://choonhuat.com.sg/
+2025,2020,2023,81,Lighthouse Canton,Fintech,71.66,19.74,12385326,,56,,2019,https://www.lighthouse-canton.com/
+2025,2020,2023,82,Sin Chew,Transport,70.46,19.46,12788573,,97,,2001,https://www.sin-chew.com.sg/
+2025,2020,2023,83,Dglux,Construction,69.2,19.16,906831,,9,,2010,https://www.dglux.com.sg/
+2025,2020,2023,84,Securistate,Professional Services,66.41,18.5,8608787,,350,,2010,https://securistate.com/
+2025,2020,2023,85,Nuffield Holdings,Healthcare & Life Sciences,66.19,18.45,14744290,,110,,2014,https://www.nuffielddental.com.sg/
+2025,2020,2023,86,Vita Group,Wholesale,65.69,18.33,14583838,,10,,2003,https://vitawoodglobal.com/
+2025,2020,2023,87,Den-Jet Marine,Manufacturing,61.13,17.24,18581513,,19,,2004,https://denjet.com/
+2025,2020,2023,88,Ingenious Business Software,Technology,57.02,16.23,2244675,,16,,2004,https://www.ingenious.sg/
+2025,2020,2023,89,Leong Guan Food Manufacturer,Food & Beverage,53.66,15.4,14193863,,187,,2005,https://leongguan.com/
+2025,2020,2023,90,Huttons Asia,Real Estate,52.48,15.1,154183849,,53,,2002,https://www.huttonsgroup.com/
+2025,2020,2023,91,Leong Guan Food Trading,Food & Beverage,51.09,14.75,15657865,,50,,2003,https://leongguan.com/
+2025,2020,2023,92,ACS Freight Services,Transport,47.3,13.78,16828677,,38,,2011,https://acsfrt.com.sg/
+2025,2020,2023,93,Lih Ming Construction,Construction,45.16,13.23,13169869,,93,,2002,https://www.lihming.com.sg/
+2025,2020,2023,94,Falcon Mobility,Retail,44.56,13.07,1705509,,8,,2007,https://www.falconmobility.com.sg/
+2025,2020,2023,95,CSE Global Limited,Technology,44.21,12.98,502789000,,1400,,1987,https://www.cse-global.com/
+2025,2020,2023,96,Watson EP Industries,Manufacturing,41.78,12.34,30871033,,70,,1980,https://www.watsonep.com.sg/
+2025,2020,2023,97,ERA Realty Network,Real Estate,41.07,12.15,388261283,,110,,1981,https://www1.era.com.sg/
+2025,2020,2023,98,Rentalworks Group,Technology,40.24,11.93,4011685,,20,,2007,https://rentalworks.com.sg/
+2025,2020,2023,99,Family Movers,Transport,40.1,11.9,6705118,,37,,1975,https://www.familymovers.com/
+2025,2020,2023,100,Vinova,Technology,39.88,11.84,3476218,,76,,2010,https://vinova.sg/

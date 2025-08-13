@@ -1,0 +1,101 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2024,2019,2022,1,Rex International Holding,Energy,126017.78,980.42,184161,,28,,2013,https://www.rexih.com/
+2024,2019,2022,2,ISO Tank Management,Transport,5647.26,285.91,2135962,,3,,2014,https://eway-alliance.com/
+2024,2019,2022,3,SKRYA,Waste Management,3482.63,229.66,313692,,1,,2019,https://www.skrya.com.sg/
+2024,2019,2022,4,KodeKloud,Education,2936.32,211.97,231519,,2,,2019,https://kodekloud.com/
+2024,2019,2022,5,Lionsbot,Manufacturing,2052.01,178.15,1006517,,25,,2018,https://www.lionsbot.com/
+2024,2019,2022,6,iX Biopharma,Pharmaceuticals & Cosmetics,2044.56,177.83,671000,,51,,2004,https://www.ixbiopharma.com/
+2024,2019,2022,7,Maneuver Marketing,Ecommerce,1924.61,172.55,8242251,,16,,2001,https://maneuvermarketing.com/
+2024,2019,2022,8,Rocketech,Technology,1463.25,150.04,154119,,7,,2017,https://rocketech.it/
+2024,2019,2022,9,MaNaDr,Healthcare & Life Sciences,1428.55,148.18,620000,,30,,2017,https://manadr.com/
+2024,2019,2022,10,Propseller,Real Estate,1051.57,125.82,596867,,10,,2018,https://propseller.com/
+2024,2019,2022,11,Doctor Anywhere,Healthcare & Life Sciences,1027.51,124.24,4578693,,127,,2017,https://doctoranywhere.com/
+2024,2019,2022,12,Affable.ai,Advertising,1007.34,122.89,262548,,11,,2017,https://www.affable.ai/
+2024,2019,2022,13,Nium,Fintech,944.33,118.58,10551762,,334,,2014,https://www.nium.com/
+2024,2019,2022,14,Park N Parcel,Transport,917.22,116.67,364073,,8,,2016,https://www.parknparcel.com.sg/
+2024,2019,2022,15,iCare Benefits Group,Fintech,898.62,115.34,886963,,29,,2015,https://icarebenefits.asia/home_en
+2024,2019,2022,16,Carro,Automotive,834.83,110.66,118307634,,329,,2015,https://carro.co/sg/en
+2024,2019,2022,17,SimplifyNext,Technology,782.56,106.66,999497,,16,,2018,https://www.simplifynext.com/
+2024,2019,2022,18,Technopals,Technology,689.43,99.12,5048265,,64,,2009,https://technopals.com/
+2024,2019,2022,19,Yoowifi,Media & Telecoms,592.87,90.64,511995,,3,,2013,https://yoowifi.com/
+2024,2019,2022,20,Sleek,Fintech,540.55,85.72,2644863,,60,,2017,https://sleek.com/sg/
+2024,2019,2022,21,Synagie,Ecommerce,481.98,79.87,19361000,,208,,2014,https://synagie.com/
+2024,2019,2022,22,Partipost,Advertising,480.69,79.74,2083584,,60,,2016,https://www.partipost.com/
+2024,2019,2022,23,GrabJobs,Technology,462.05,77.8,390000,,10,,2015,https://grabjobs.co/
+2024,2019,2022,24,WSH Experts,Management Consulting,410.08,72.14,6060610,,161,,2018,https://wshexperts.com.sg/
+2024,2019,2022,25,Prospect Logistics,Transport,401.61,71.18,2918262,,30,,2016,https://www.prospect.sg/
+2024,2019,2022,26,Pragma,Management Consulting,396.72,70.62,1189894,,7,,2016,https://pragma.ltd/
+2024,2019,2022,27,Aspire,Fintech,339.71,63.83,4735960,,70,,2017,https://aspireapp.com/
+2024,2019,2022,28,Declarators,Transport,338.56,63.69,989597,,24,,2014,https://declarators.com.sg/
+2024,2019,2022,29,PS Energy Group,Energy,326.62,62.19,73742000,,55,,2008,https://psenergy.com.sg/
+2024,2019,2022,30,Redpeak Advisers,Fintech,319.42,61.27,3896229,,8,,2016,https://www.redpeak.sg/
+2024,2019,2022,31,X0PA Ai,Technology,305.92,59.52,395572,,11,,2017,https://x0pa.com/
+2024,2019,2022,32,OOm Pte Ltd,Advertising,291.7,57.64,4729721,,20,,2006,https://www.oom.com.sg/
+2024,2019,2022,33,Mighty Jaxx Group,Retail,279.62,56,7958277,,32,,2015,https://mightyjaxx.com/
+2024,2019,2022,34,Bitdeer,Technology,275.51,55.43,121097670,,88,,2016,https://www.bitdeer.com/
+2024,2019,2022,35,Korea Artiz Studio,Professional Services,261.15,53.43,1222675,,15,,2017,https://www.artizstudio.sg/
+2024,2019,2022,36,Nimbus Group,Professional Services,260.53,53.34,1710658,,68,,2017,https://www.nimbusfacility.com/
+2024,2019,2022,37,Toku,Technology,256.7,52.79,8251475,,20,,2017,https://toku.co/
+2024,2019,2022,38,uParcel,Transport,243.59,50.9,493356,,20,,2014,https://www.uparcel.sg/
+2024,2019,2022,39,Crayon Data,Technology,239.82,50.34,5700816,,108,,2012,https://crayondata.ai/
+2024,2019,2022,40,MLION Corp,Wholesale,233.71,49.44,75287925,,38,,2011,https://mlioncorp.com/
+2024,2019,2022,41,Four Star,Retail,228.49,48.65,6131856,,46,,1976,https://www.fourstar.com.sg/
+2024,2019,2022,42,Grand Venture Technology,Manufacturing,227.11,48.45,40074000,,667,,2012,https://gvt.com.sg/
+2024,2019,2022,43,Impact Investment Exchange,Management Consulting,224.56,48.06,2355237,,24,,2009,https://iixglobal.com/
+2024,2019,2022,44,Fresh Laundry,Retail,222.22,47.7,906039,,6,,2011,https://www.freshlaundry.com.sg/
+2024,2019,2022,45,Funding Societies | Modalku,Fintech,217.93,47.04,11516670,,420,,2015,https://fundingsocieties.com/
+2024,2019,2022,46,Info-Tech,Technology,213.42,46.34,8457874,,65,,2007,https://www.info-tech.com.sg/
+2024,2019,2022,47,Blue Wireless,Media & Telecoms,212.05,46.13,3818537,,45,,2015,https://www.bluewireless.com/
+2024,2019,2022,48,Supreme Components International,Wholesale,201.68,44.49,18338725,,29,,2001,https://www.supremecomponents.com/
+2024,2019,2022,49,Prince Education,Education,192.72,43.05,535600,,10,,2007,https://www.prince.education/
+2024,2019,2022,50,Envirotec Controls,Construction,190.5,42.69,1441962,,22,,2009,https://www.envirotec-controls.com/
+2024,2019,2022,51,Coda Payments,Fintech,185.62,41.88,110556012,,104,,2011,https://www.codapayments.com/
+2024,2019,2022,52,Kindle Kids International School,Education,185.26,41.82,2117085,,16,,2017,https://kindlekids.sg/
+2024,2019,2022,53,Spark Systems,Fintech,181.72,41.23,1198972,,41,,2016,https://www.sparksystems.sg/
+2024,2019,2022,54,Ingenious Business Software,Technology,180.28,40.99,1295425,,16,,2001,https://www.ingenious.sg/
+2024,2019,2022,55,WEWE Media,Advertising,173.2,39.8,13144942,,10,,2013,https://wewe.media/
+2024,2019,2022,56,AEM Holdings,Technology,169.39,39.14,323130000,,585,,1992,https://aem.com.sg/
+2024,2019,2022,57,MCI Outsourcing,Professional Services,159.87,37.48,13175665,,1103,,2016,https://www.mci.com.sg/
+2024,2019,2022,58,Alpha Ori Technologies,Technology,155.28,36.67,7748417,,88,,2017,https://www.alphaori.sg/
+2024,2019,2022,59,Weima Builders,Construction,154.61,36.55,34432173,,65,,2017,https://weima.sg/
+2024,2019,2022,60,PropNex,Real Estate,145.14,34.84,419837000,,96,,2000,https://www.propnex.com/
+2024,2019,2022,61,Enova Electrical,Electrical Manufacturing,142.01,34.26,5328000,,22,,2008,http://www.enova-electric.com/
+2024,2019,2022,62,Global Alliance Logistics,Transport,136.68,33.27,8954645,,17,,2013,https://globalalliancelog.com/
+2024,2019,2022,63,Asia Excel,Retail,135.85,33.11,6745956,,18,,2007,https://www.asiaexcel.com.sg/
+2024,2019,2022,64,Synergy Financial Advisers,Fintech,128.23,31.66,2715550,,30,,2012,https://synergy.com.sg/
+2024,2019,2022,65,Motorist,Automotive,125.59,31.15,2574388,,33,,2015,https://www.motorist.sg/
+2024,2019,2022,66,Redhill,Advertising,117.49,29.56,3919295,,50,,2014,https://redhill.world/
+2024,2019,2022,67,LanciaConsult,Management Consulting,114.89,29.04,5555622,,32,,2012,https://www.lanciaconsult.com/
+2024,2019,2022,68,CBG Logistics,Transport,104.25,26.88,6202422,,37,,2005,https://cbg.com.sg/
+2024,2019,2022,69,Jetters Incz.,Waste Management,104.04,26.83,842414,,7,,2015,https://jetters.com.sg/
+2024,2019,2022,70,UnaBiz,Technology,103.91,26.81,961420,,150,,2016,https://www.unabiz.com/
+2024,2019,2022,71,TDCX,Professional Services,101.09,26.22,330265000,,9214,,1995,https://www.tdcx.com/
+2024,2019,2022,72,Almarc Engineering,Manufacturing,100.83,26.17,5742846,,29,,2014,https://www.almarc.com.sg/
+2024,2019,2022,73,Ahrefs,Technology,100.47,26.09,67978142,,25,,2012,https://ahrefs.com/
+2024,2019,2022,74,Lovebonito Holdings,Apparel & Fashion,100.44,26.08,32183328,,180,,2010,https://www.lovebonito.com/intl
+2024,2019,2022,75,Nuffield Holdings,Healthcare & Life Sciences,98.21,25.61,10841797,,89,,2014,https://www.nuffielddental.com.sg/
+2024,2019,2022,76,Vinova,Technology,95.5,25.04,2131943,,55,,2010,https://vinova.sg/
+2024,2019,2022,77,Aztech,Electrical Manufacturing,91.28,24.13,428825000,,918,,2009,https://www.aztechglobal.com/
+2024,2019,2022,78,Handshakes,Technology,88.54,23.54,5706033,,64,,2011,https://www.handshakes.com.sg/
+2024,2019,2022,79,Globe Teleservices,Media & Telecoms,86.1,23,33073155,,100,,2014,https://www.globeteleservices.com/
+2024,2019,2022,80,Bluconnection,Chemicals,85.42,22.85,52322828,,8,,2009,https://www.bluconnection.com/
+2024,2019,2022,81,Beyond Medical Group,Healthcare & Life Sciences,76.27,20.8,17500746,,50,,2013,https://beyondmedical.com.sg/
+2024,2019,2022,82,Tesha Corporation,"Agriculture, Forestry & Fishing",74.19,20.32,3357404,,4,,2012,https://www.teshagroup.com/
+2024,2019,2022,83,Easmed,Healthcare & Life Sciences,74.1,20.3,6808106,,24,,2006,https://www.easmed.com/
+2024,2019,2022,84,Vita Group,Wholesale,73.87,20.25,14502677,,11,,2015,https://vitagroup.com.sg/
+2024,2019,2022,85,Khaitan International,Wholesale,69.87,19.32,119060850,,7,,1985,https://khaitan.com.sg/
+2024,2019,2022,86,The Curtain Boutique,Retail,66.06,18.42,5368315,,37,,2014,https://www.tcb.com.sg/
+2024,2019,2022,87,Pollisum,Construction,60.55,17.1,20354933,,179,,1982,https://www.pollisum.com/
+2024,2019,2022,88,MCI Career Services,Employment Services,59,16.72,15998245,,118,,2007,https://www.mci.com.sg/
+2024,2019,2022,89,The Smart Local (TSL) Media Group,Media & Telecoms,56.93,16.21,7044734,,94,,2013,https://tslmedia.sg/
+2024,2019,2022,90,Huttons,Real Estate,56.77,16.17,153078000,,48,,2002,https://www.huttonsgroup.com/
+2024,2019,2022,91,Herbal Pharm,Retail,50.99,14.72,6981488,,37,,2004,https://www.herbalpharm.com.sg/
+2024,2019,2022,92,Intelorg,Wholesale,49.12,14.25,313783030,,15,,1990,http://www.intelorg.com.sg/
+2024,2019,2022,93,The Meat Club,Ecommerce,47.22,13.76,1704709,,3,,2015,https://www.themeatclub.com.sg/
+2024,2019,2022,94,Onn Wah Precision Engineering,Manufacturing,45.11,13.21,31571579,,233,,1999,https://onnwah.com/
+2024,2019,2022,95,Whyze Solutions,Technology,40,11.87,2237753,,19,,2008,https://whyze.com.sg/
+2024,2019,2022,96,Reddoorz,Hospitality & Travel,39.04,11.61,20320000,,1594,,2014,https://www.reddoorz.com/en-sg
+2024,2019,2022,97,Caprico International,Wholesale,38.02,11.34,54800493,,2,,1995,
+2024,2019,2022,98,UOB Kay Hian,Fintech,33,9.97,372720000,,567,,1990,https://www.uobkayhian.com/
+2024,2019,2022,99,Connect Group,Hospitality & Travel,29.99,9.14,8639529,,145,,2012,https://www.connectcue.com/
+2024,2019,2022,100,Rolling Arrays,Technology,26.98,8.29,7346132,,52,,2009,https://rollingarrays.com/

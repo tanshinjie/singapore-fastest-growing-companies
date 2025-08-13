@@ -1,0 +1,101 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2023,2018,2021,1,Rex International Holding,Energy,38829.7,630.18,555474,,28,,2013,https://www.rexih.com
+2023,2018,2021,2,NW Corporation,Energy,27770.4,553.2,1783435,,2,,2016,https://nwcorp.sg/
+2023,2018,2021,3,Doctor Anywhere,Healthcare & Life Sciences,10865.7,378.64,290613,,50,,2017,https://doctoranywhere.com
+2023,2018,2021,4,Maneuver Marketing,Ecommerce,3539.7,231.4,3183729,,16,,2001,https://www.maneuvermarketing.com
+2023,2018,2021,5,StashAway,Fintech,2669.8,202.56,291189,,37,,2016,https://www.stashaway.sg
+2023,2018,2021,6,SCI Ecommerce,Ecommerce,1602.5,157.25,18611454,,33,,2014,https://www.sciecomm.com
+2023,2018,2021,7,KKIS,Education,1341.1,143.35,279300,,12,,2017,https://kindlekids.sg
+2023,2018,2021,8,Aspire,Fintech,1107,129.39,781683,,20,,2017,https://aspireapp.com
+2023,2018,2021,9,Sea,Leisure & Entertainment,1103.8,129.19,1128645926,,22600,,2009,https://www.sea.com
+2023,2018,2021,10,Helicap,Fintech,1103.3,129.15,437825,,9,,2018,https://www.helicap.com
+2023,2018,2021,11,Stag Match Education and Training Group,Education,1089.1,128.25,219946,,4,,2016,https://www.smet.edu.sg
+2023,2018,2021,12,Coda Payments,Fintech,984.1,121.32,38965287,,52,,2011,https://www.codapayments.com/
+2023,2018,2021,13,Rocketech,Technology,778.3,106.32,206834,,8,,2017,https://rocketech.it
+2023,2018,2021,14,Moglix,Ecommerce,761,104.96,51010586,,172,,2015,https://business.moglix.com
+2023,2018,2021,15,GrabJobs,Technology,751.1,104.17,268150,,10,,2015,https://grabjobs.co
+2023,2018,2021,16,Technopals,Technology,745.7,103.74,2504541,,47,,2009,https://technopals.com
+2023,2018,2021,17,iCare Benefits Group,Fintech,685.9,98.82,696568,,82,,2015,http://icarebenefits.asia
+2023,2018,2021,18,Handshakes,Technology,643.3,95.16,1063563,,56,,2011,https://www.handshakes.com.sg
+2023,2018,2021,19,Workmate,Technology,629.3,93.92,4012311,,30,,2015,https://www.workmate.asia
+2023,2018,2021,20,iX Biopharma,Pharmaceuticals & Cosmetics,609.3,92.14,246000,,41,,2004,https://www.ixbiopharma.com
+2023,2018,2021,21,Mekhala,Food & Beverage,603.3,91.59,286536,,10,,2012,https://www.mekhalaliving.com
+2023,2018,2021,22,Legend Logistics,Transport,591.8,90.54,17915798,,34,,2012,https://www.legendlogisticsltd.com
+2023,2018,2021,23,OxPay,Fintech,588.5,90.24,2548000,,,,2005,https://oxpayfinancial.com
+2023,2018,2021,24,Haulio,Transport,556.9,87.29,2289788,,23,,2016,https://www.haulio.io
+2023,2018,2021,25,UCARE.AI,Technology,548.1,86.44,335000,,4,,2016,https://www.ucare.ai
+2023,2018,2021,26,Pragma,Technology,514.5,83.17,471346,,5,,2016,https://pragmastrategy.com
+2023,2018,2021,27,Synagie,Ecommerce,435.4,74.94,16051000,,50,,2017,https://synagie.com
+2023,2018,2021,28,Paneco.com,Ecommerce,406.6,71.75,3077018,,5,,2016,https://www.paneco.com
+2023,2018,2021,29,Spiking,Fintech,403.5,71.39,721000,,10,,2016,https://spiking.com
+2023,2018,2021,30,Singapore Realtors Inc,Real Estate,387.6,69.57,26872985,,10,,2016,https://sri.sg/
+2023,2018,2021,31,Baltnav Singapore,Transport,383.3,69.08,144141553,,10,,2017,https://www.baltnav.com
+2023,2018,2021,32,Deelish Brands,Food & Beverage,379.3,68.6,1133926,,10,,2017,https://www.deelishbrands.com
+2023,2018,2021,33,JGL Worldwide,Transport,366.4,67.08,12784535,,23,,2011,https://jglww.com
+2023,2018,2021,34,uParcel,Transport,341.6,64.07,455060,,8,,2014,https://www.uparcel.sg
+2023,2018,2021,35,UG Healthcare Corporation,Healthcare & Life Sciences,333.5,63.06,78060000,,,,1989,https://www.ughealthcarecorporation.com
+2023,2018,2021,36,Wewe Media,Advertising,316.2,60.86,7315896,,10,,2013,https://wewe.media
+2023,2018,2021,37,Declarators,Transport,308.3,59.83,887494,,20,,2014,https://www.declarators.com.sg
+2023,2018,2021,38,Blue Wireless,Media & Telecoms,299.8,58.71,2296164,,14,,2015,https://www.bluewireless.com
+2023,2018,2021,39,Robocash Group,Fintech,292.2,57.7,110679821,,1379,,2013,https://robocash.group
+2023,2018,2021,40,Info-Tech,Technology,285.8,56.83,7125696,,68,,2007,https://www.info-tech.com.sg/
+2023,2018,2021,41,Weima Builders,Construction,266.7,54.21,13481789,,37,,2017,https://weima.sg
+2023,2018,2021,42,Heroes of Digital,Advertising,265.2,54,1362500,,15,,2015,https://www.heroesofdigital.com
+2023,2018,2021,43,Korea Artiz Studio,Professional Services,252.4,52.17,1158034,,14,,2017,https://www.artizstudio.sg
+2023,2018,2021,44,TDCX,Professional Services,206.3,45.23,181233000,,5731,,1995,https://www.tdcx.com
+2023,2018,2021,45,Bulkings Distribution,Wholesale,201.6,44.48,5442684,,11,,2017,http://www.bulkings.com.sg
+2023,2018,2021,46,Viddsee,Media & Telecoms,201,44.38,2137374,,28,,2013,https://www.viddsee.com
+2023,2018,2021,47,Oom,Advertising,198,43.9,3685173,,13,,2006,https://www.oom.com.sg
+2023,2018,2021,48,Glife,Food & Beverage,197.3,43.8,4704997,,20,,2017,https://glifefoods.com
+2023,2018,2021,49,Wave Life Sciences,Healthcare & Life Sciences,184.2,41.65,19672227,,301,,2012,https://www.wavelifesciences.com
+2023,2018,2021,50,Grand Venture Technology,Manufacturing,183.6,41.54,40997000,,,,2012,https://gvt.com.sg
+2023,2018,2021,51,Redhill Communications,Advertising,179.7,40.89,2644255,,17,,2014,https://redhill.world
+2023,2018,2021,52,AHREFS,Technology,159.2,36.48,44928932,,21,,2012,https://www.ahrefs.com
+2023,2018,2021,53,Eco Exchange,Waste Management,159.1,37.34,806809,,12,,2013,https://www.ecoexchange.com.sg
+2023,2018,2021,54,Ingenious Business Software,Technology,154.2,37.09,1358660,,15,,2001,https://www.ingenious.sg
+2023,2018,2021,55,SPARK Systems,Fintech,149.2,35.58,823558,,35,,2016,https://www.sparksystems.sg
+2023,2018,2021,56,Business Edge,Employment Services,145.2,34.86,25728336,,18,,1996,https://www.businessedge.com.sg
+2023,2018,2021,57,BlackGold,Energy,143.8,34.59,7708191,,,,1997,https://www.blackgold-group.com
+2023,2018,2021,58,Tookitaki,Technology,143,34.44,785361,,40,,2014,https://www.tookitaki.com
+2023,2018,2021,59,Motorist,Technology,141.8,34.22,1945983,,26,,2015,https://www.motorist.sg
+2023,2018,2021,60,INTELORG,Wholesale,129.7,31.94,218118867,,12,,1990,http://www.intelorg.com.sg
+2023,2018,2021,61,Win-Pro,Technology,124.2,30.88,1384703,,10,,1993,https://www.winpro.com.sg
+2023,2018,2021,62,PropNex,Real Estate,121.9,30.43,431539196,,,,1996,https://www.propnex.com
+2023,2018,2021,63,Supreme Components International,Wholesale,119.7,30.01,24923692,,19,,2001,https://www.supremecomponents.com
+2023,2018,2021,64,PS Energy,Energy,119.2,29.9,95127000,,49,,2008,https://psenergy.com.sg
+2023,2018,2021,65,Union Gas,Energy,118.3,29.72,56361000,,192,,1974,https://www.uniongas.com.sg
+2023,2018,2021,66,Nuffield Dental Holdings,Healthcare & Life Sciences,118,29.67,8807365,,39,,2014,https://www.nuffielddental.com.sg
+2023,2018,2021,67,AEM,Professional Services,115.3,29.12,262692000,,441,,2000,https://www.aem.com.sg
+2023,2018,2021,68,Lighthouse Canton,Fintech,114.6,28.99,7442374,,33,,2014,https://www.lighthouse-canton.com
+2023,2018,2021,69,Geo Energy Resources,Energy,114.5,28.97,408405165,,197,,2008,http://www.geocoal.com
+2023,2018,2021,70,RedDoorz,Hospitality & Travel,109.7,28,11011000,,445,,2014,https://www.reddoorz.com/en-sg
+2023,2018,2021,71,Lancia Consult,Management Consulting,107.7,27.58,4406844,,26,,2012,https://www.lanciaconsult.com
+2023,2018,2021,72,Far East Group,Manufacturing,103.7,26.76,40787269,,350,,1953,https://www.fareastgroup.com.sg
+2023,2018,2021,73,Caprico,Wholesale,102.7,26.57,41397582,,2,,1985,
+2023,2018,2021,74,Eggriculture,Food & Beverage,101.4,26.29,33295000,,194,,2018,https://www.eggriculturefoods.com
+2023,2018,2021,75,Nanofilm,Manufacturing,100.8,26.16,122844000,,,,1999,https://www.nti-nanofilm.com
+2023,2018,2021,76,Plain Vanilla,Food & Beverage,100,25.98,2805537,,63,,2011,https://plainvanilla.com.sg
+2023,2018,2021,77,Thirsty,Ecommerce,99.7,25.93,3445563,,5,,2014,https://www.thirsty.com.sg
+2023,2018,2021,78,BLUCONNECTION,Chemicals,96.4,25.23,44848503,,9,,2009,https://www.bluconnection.com
+2023,2018,2021,79,Luce SG,Professional Services,95.9,25.13,3995696,,300,,2017,https://lucemg.com
+2023,2018,2021,80,Sitra,Manufacturing,90.1,23.87,14072028,,,,1979,http://www.sitraholdings.com
+2023,2018,2021,81,Sing Fuels,Energy,84.4,22.62,348759798,,25,,2012,https://www.singfuels.com
+2023,2018,2021,82,Memiontec,Construction,83.8,22.5,25134540,,,,1992,https://www.memiontec.com
+2023,2018,2021,83,PCRD,Management Consulting,82.3,22.16,15791000,,,,1963,https://www.pcrd.com
+2023,2018,2021,84,APRO,Professional Services,80.9,21.85,42428814,,900,,1985,https://www.apro.com.sg
+2023,2018,2021,85,Aztech,Manufacturing,80.5,21.76,346822000,,,,1986,https://www.aztechglobal.com
+2023,2018,2021,86,MAPTRASCO,Wholesale,74.8,20.46,98222274,,5,,1985,https://www.khaitan.com.sg
+2023,2018,2021,87,Asia Excel,Retail,71.2,19.63,6955029,,18,,2001,https://www.asiaexcel.com.sg
+2023,2018,2021,88,The Curtain Boutique,Manufacturing,66.8,18.61,5047763,,27,,2014,https://www.tcb.com.sg
+2023,2018,2021,89,MLION Corporation,Wholesale,65.9,18.39,87636050,,23,,2011,https://mlioncorp.com
+2023,2018,2021,90,Adroit Overseas,Transport,56.7,16.14,97474016,,9,,2010,https://adroitoverseas.com
+2023,2018,2021,91,E-Tech,Professional Services,55.9,15.96,9780598,,190,,1990,https://www.e-tech.com.sg
+2023,2018,2021,92,Yeap Medical Supplies,Wholesale,49.9,14.44,25000508,,53,,2000,https://www.yms.com.sg
+2023,2018,2021,93,The Meat Club,Food & Beverage,48.5,14.08,1634082,,3,,2014,https://www.themeatclub.com.sg
+2023,2018,2021,94,Raffles Medical Group,Healthcare & Life Sciences,48,13.95,489135000,,2500,,1976,https://www.rafflesmedicalgroup.com
+2023,2018,2021,95,Whyze,Technology,41.6,12.29,2070300,,19,,2008,https://whyze.com.sg
+2023,2018,2021,96,Lynx Analytics,Technology,41.3,12.21,6379848,,29,,2010,https://www.lynxanalytics.com
+2023,2018,2021,97,VITA,Wholesale,37.1,11.08,17439036,,7,,2003,https://www.vitagroup.com.sg
+2023,2018,2021,98,Soul & Tables,Retail,36.3,10.86,4271207,,12,,2012,https://www.soulandtables.com.sg
+2023,2018,2021,99,Huttons Group,Real Estate,34.9,10.5,177825306,,48,,2002,https://www.huttonsgroup.com
+2023,2018,2021,100,Boustead Singapore,Construction,34.2,10.31,470646000,,773,,1828,https://boustead.sg/

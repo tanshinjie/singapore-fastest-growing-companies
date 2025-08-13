@@ -1,0 +1,76 @@
+dataset_year,period_start,period_end,rank,company_name,sector,absolute_growth_rate,compound_annual_growth_rate,revenue_start,revenue_end,employees_start,employees_end,founding_year,website
+2022,2017,2020,1,Workmate,Support Services,8750.5,345.6,187834,,35,,2015,https://www.workmate.asia/
+2022,2017,2020,2,SCI Ecommerce,Ecommerce,7295.1,319.7,2023879,,13,,2014,https://www.sciecomm.com/
+2022,2017,2020,3,Haulio,Transport,3294.2,223.8,228481,,3,,2016,https://www.haulio.io/
+2022,2017,2020,4,Glints Intern,Support Services,2849,209,457769,,27,,2013,https://glints.com/
+2022,2017,2020,5,Carro,Technology,1763.1,165.1,15922992,,120,,2015,https://carro.sg/
+2022,2017,2020,6,360F,Fintech,1732.9,163.7,273127,,5,,2016,https://www.360f.com/
+2022,2017,2020,7,BR Metals,Waste Management,1671.8,160.7,10795669,,13,,2009,https://www.brmetalsltd.com/
+2022,2017,2020,8,Bulkings Distribution,Personal & Household Goods,1642.9,159.3,843216,,9,,2017,https://www.bulkings.com.sg/
+2022,2017,2020,9,Nium,Fintech,1399.2,146.6,1470189,,115,,2015,https://www.nium.com/
+2022,2017,2020,10,Hegen,Personal & Household Goods,1282.1,140,2426628,,10,,2014,https://www.hegen.com/
+2022,2017,2020,11,Redpeak Advisers,Financial Services,1229.1,136.9,1049863,,4,,2016,https://www.redpeak.sg/
+2022,2017,2020,12,WAVE Life Sciences,Health,1097.9,128.8,2239907,,168,,2012,https://wavelifesciences.com/
+2022,2017,2020,13,Coda Payments,Fintech,1094.3,128.6,16210823,,25,,2011,https://www.codapayments.com/
+2022,2017,2020,14,Funding Societies,Fintech,879.5,114,2222716,,100,,2015,https://fundingsocieties.com
+2022,2017,2020,15,Incomlend,Fintech,839.1,111,388056,,8,,2016,https://incomlend.com/
+2022,2017,2020,16,Blue Wireless,Telecoms,748.6,104,712070,,24,,2015,https://www.bluewireless.com/
+2022,2017,2020,17,JCO Jewelry,Ecommerce,746.1,103.8,999263,,5,,2016,https://www.jcojewellery.com
+2022,2017,2020,18,Spark Systems,Fintech,694.5,99.5,221063,,26,,2016,https://www.sparksystems.sg/
+2022,2017,2020,19,Sqreem Technologies,Technology,671.2,97.6,1046466,,48,,2010,https://sqreemtech.com/
+2022,2017,2020,20,Homage Co,Health,610.7,92.3,985000,,15,,2016,https://www.homage.sg/
+2022,2017,2020,21,Zairyo,Ecommerce,575.5,89,429994,,2,,2014,https://www.zairyo.com.sg
+2022,2017,2020,22,Declarators,Transport,452.9,76.8,549883,,13,,2014,https://declarators.com.sg/
+2022,2017,2020,23,Millennium Enterprise,Retail,452.1,76.7,1063396,,2,,2016,https://millenterprise.com/
+2022,2017,2020,24,Wewe Media Group,Advertising,422.2,73.5,4193655,,10,,2013,https://wewe.media
+2022,2017,2020,25,Roadbull Logistics,Technology,415.6,72.8,3167264,,73,,2015,https://roadbull.com/
+2022,2017,2020,26,Shootsta,Technology,374.1,68,614887,,4,,2017,https://www.shootsta.com
+2022,2017,2020,27,Heroes of Digital,Advertising,369.8,67.5,876051,,6,,2015,https://www.heroesofdigital.com
+2022,2017,2020,28,Connecting The Dots SG,Telecoms,332.2,62.9,3193805,,1,,2016,https://www.ctd.global
+2022,2017,2020,29,INEX Innovate,Health,294.6,58,1788483,,13,,2006,https://www.inex.sg
+2022,2017,2020,30,Livingstone Health,Health,262,53.5,5546977,,20,,2017,https://www.livingstonehealth.com.sg
+2022,2017,2020,31,Motorist,Automobiles,249.1,51.7,899652,,45,,2015,https://www.motorist.sg/
+2022,2017,2020,32,NRT Trading & Engineering,Support Services,246.3,51.3,3594721,,166,,2011,https://nrt.com.sg/
+2022,2017,2020,33,I Switch,Energy,218.2,47.1,50052966,,18,,2017,https://www.iswitch.com.sg
+2022,2017,2020,34,Ahrefs,Technology,217.7,47,27554773,,16,,2012,https://www.ahrefs.com
+2022,2017,2020,35,Redhill World,Sales & Marketing,191.5,42.9,1590307,,30,,2014,https://www.redhill.world
+2022,2017,2020,36,Yeap Medical Supplies,Health,179.6,40.9,24633605,,54,,2000,https://www.yms.com.sg/
+2022,2017,2020,37,FirstCom Solutions,Technology,177.8,40.6,2793624,,65,,2011,https://www.firstcom.com.sg/
+2022,2017,2020,38,Sing Fuels,Transport,168.4,39,161402216,,13,,2012,https://www.singfuels.com
+2022,2017,2020,39,Venturer Group Corporate Solutions,Support Services,163.9,38.2,1685692,,30,,2013,http://www.venturergroup.com/
+2022,2017,2020,40,Data Connect Technologies,Technology,144.1,34.6,3067496,,28,,2003,https://www.d-connect.net
+2022,2017,2020,41,QXY Resources,Construction,143.9,34.6,22434291,,78,,2004,https://www.qxyresources.com
+2022,2017,2020,42,Info-Tech Systems Integrators,Technology,140.6,34,6289330,,60,,2007,https://www.info-tech.com.sg/
+2022,2017,2020,43,AEM Holdings,Technology,134.2,32.8,221622000,,439,,1992,https://aem.com.sg/
+2022,2017,2020,44,SRI,Property,121.5,30.4,22988278,,6,,2016,https://sri.sg/
+2022,2017,2020,45,Union Gas,Energy,120,30,39186000,,161,,2016,https://www.uniongas.com.sg/
+2022,2017,2020,46,iideas,Support Services,119.7,30,720626,,6,,2016,https://www.iideas.com.sg
+2022,2017,2020,47,Triple A Technologies,Fintech,112.5,28.6,1242451,,1,,2017,https://triple-a.io/
+2022,2017,2020,48,Nanofilm Technologies International,Technology,110.7,28.2,103604000,,1342,,1999,https://www.nti-nanofilm.com/
+2022,2017,2020,49,AJ2,Interiors,110.6,28.2,2695647,,19,,2014,https://www.tcb.com.sg/
+2022,2017,2020,50,Mlion Corporation,Industrial Goods,110.2,28.1,42293302,,10,,2011,https://www.mlioncorp.com/
+2022,2017,2020,51,Rewind Networks,Media,108.9,27.8,3977191,,10,,2012,https://www.rewindnetworks.com/
+2022,2017,2020,52,Sin Chwee Mini Mart,Retail,99.8,26,834400,,7,,1990,https://www.tankfullyfresh.com
+2022,2017,2020,53,Business Edge Personnel Services,Support Services,98.4,25.7,18648000,,17,,1996,https://www.businessedge.com.sg
+2022,2017,2020,54,Nuffield Dental,Health,95.9,25.1,7520323,,61,,2014,https://www.nuffielddental.com.sg/
+2022,2017,2020,55,E-Tech Building Services,Support Services,89.5,23.7,7921225,,180,,1990,https://www.e-tech.com.sg/
+2022,2017,2020,56,Meadway Shipping,Transport,89.4,23.7,149174359,,6,,2010,http://meadwayshipping.com/
+2022,2017,2020,57,APRO-Asian Protection,Support Services,81.4,22,40442504,,970,,1985,https://www.apro.com.sg/
+2022,2017,2020,58,Gushcloud Talent Agency,Sales & Marketing,78.6,21.3,13872000,,150,,2011,https://www.gushcloud.com
+2022,2017,2020,59,Boustead,Industrial Goods,78.1,21.2,385106000,,773,,1828,https://boustead.sg/
+2022,2017,2020,60,WSE,Energy,77.6,21.1,1275000,,9,,2016,http://www.wse.sg/
+2022,2017,2020,61,Bluconnection,Chemicals,75.2,20.5,23669018,,8,,2009,https://www.bluconnection.com
+2022,2017,2020,62,iFAST Corporation,Fintech,73.6,20.2,49444678,,570,,2000,https://www.ifastcorp.com/
+2022,2017,2020,63,Activate Interactive,Technology,71.4,19.7,6782024,,37,,1997,https://www.activate.sg
+2022,2017,2020,64,Sheng Siong Group,Retail,68,18.9,829877000,,,,1985,https://corporate.shengsiong.com.sg/
+2022,2017,2020,65,GKE Corporation,Transport,66.5,18.5,71464000,,786,,2000,https://www.gke.com.sg/
+2022,2017,2020,66,Memiontec,Construction,66.2,18.4,20825000,,,,1992,http://memiontec.com/
+2022,2017,2020,67,Caprico International,Wholesale Trade,62.8,17.6,39797379,,2,,1995,
+2022,2017,2020,68,Adroit Overseas,Agricultural Commodities,51.2,14.8,87007525,,8,,2010,https://adroitoverseas.com/
+2022,2017,2020,69,Khaitan International,Agricultural Commodities,44.5,13.1,80026026,,3,,1985,https://khaitan.com.sg/
+2022,2017,2020,70,Connect Group,Travel & Leisure,42.4,12.5,6667287,,124,,2012,https://www.connectcue.com
+2022,2017,2020,71,Tesha Coporation,Sales & Marketing,41.1,12.2,2240328,,1,,2012,https://www.teshagroup.com/
+2022,2017,2020,72,Asia Excel,Retail,41,12.1,5682544,,20,,2007,https://www.asiaexcel.com.sg
+2022,2017,2020,73,Danovel,Manufacturing & Retailing,40.1,11.9,1144289,,15,,1996,https://www.danovel.com
+2022,2017,2020,74,CSE Global,Technology,38.8,11.5,362352000,,,,1985,http://www.cse-global.com/
+2022,2017,2020,75,Singapore O&G,Health,33.4,10.1,29902000,,64,,2011,https://www.sog.com.sg/
